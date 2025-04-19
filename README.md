@@ -1,6 +1,9 @@
 # 🎲 Sorteador de Números
 
-[![Ver Projeto](https://img.shields.io/badge/🔗-Acessar%20Projeto-blueviolet?style=for-the-badge)](https://andresvyeyra.github.io/sorteador-de-numeros/)
+
+<a href="https://andresvyeyra.github.io/sorteador-de-numeros/" target="_blank">
+  <img src="https://img.shields.io/badge/🔗-Acessar%20Projeto-blueviolet?style=for-the-badge" alt="Ver Projeto">
+</a>
 
 Um aplicativo web simples e eficiente para realizar sorteios de números de forma única e personalizada!  
 Ideal para sorteios rápidos, dinâmicos e sem repetições.
@@ -40,7 +43,8 @@ Ideal para sorteios rápidos, dinâmicos e sem repetições.
 4. Veja os números sorteados na tela!
 5. Clique em **Reiniciar** para limpar e começar novamente.
 
-🔗 [Acesse o Projeto Online](https://andresvyeyra.github.io/sorteador-de-numeros/)
+🔗 <a href="https://andresvyeyra.github.io/sorteador-de-numeros/" target="_blank">Acesse o Projeto Online</a>
+
 
 ---
 
