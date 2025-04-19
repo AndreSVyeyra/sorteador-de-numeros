@@ -9,6 +9,22 @@ function sortear () {
     let sorteados = [];
     let numero;
 
+            // Verifica se o valor inicial (de) é maior ou igual ao valor final (ate)
+        if (de >= ate) {
+            // Se for, exibe um alerta informando que o campo "Do número" deve ser menor que o "Até o número"
+            alert('Campo "Do número" deve ser inferior ao campo "Até o número". Verifique!');
+            // Interrompe a execução da função para o usuário corrigir o erro
+            return;
+        }
+
+        // Verifica se a quantidade solicitada é maior do que o intervalo disponível (de até ate)
+        if (quantidade > (ate - de + 1)) {
+            // Se a quantidade for maior que o intervalo possível, exibe um alerta informando o erro
+            alert('Campo "Quantidade" deve ser menor ou igual ao intervalo informado no campo "Do número" até o campo "Até o número". Verifique!');
+            // Interrompe a execução da função para o usuário corrigir o erro
+            return;
+}
+
     // Laço que executa até sortear a quantidade desejada de números
     for (let i = 0; i < quantidade; i++){
         // Gera um número aleatório dentro do intervalo informado
