@@ -13,8 +13,6 @@ Ideal para sorteios rápidos, dinâmicos e sem repetições.
 
 <img src="https://private-user-images.githubusercontent.com/56928555/435409403-30048e4e-60b4-4c41-912c-baf4df2b8d91.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwODExMzEsIm5iZiI6MTc0NTA4MDgzMSwicGF0aCI6Ii81NjkyODU1NS80MzU0MDk0MDMtMzAwNDhlNGUtNjBiNC00YzQxLTkxMmMtYmFmNGRmMmI4ZDkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE5VDE2NDAzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiZDUxOTFkOWE1ZjA3MjkzMWY4ODA0YTY5Yzc1ZDYzOWUzMjk3NjFhY2Q3MjgwYmZlOTRiMzBiMTNiOTM3YTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xgO8XndHVDDWKZz0Q9lbkqyh8yaAI9CNWMjcJxF-a_s" alt="Imagem do Sorteador de Números" width="700px" />
 
-*(Substitua `./screenshot.png` pelo nome ou link correto da sua imagem.)*
-
 ---
 
 ## ✨ Funcionalidades
